@@ -1,6 +1,6 @@
 # How Many Do You Need to Ask?
 
-A sampling simulator. Students survey an imaginary campus of 10,000 students, choosing who to ask (a random sample or a convenience sample) and how many (25 to 1,600). Every survey adds a dot to a chart, so students can see sampling error, why bigger samples help less and less, and why a large biased sample is still wrong. By Gwen Sharp, as a companion to Chapter 2 (Research Methods) of *A Sociology Experiment*.
+A sampling simulator. Students survey an imaginary campus of 10,000 students, choosing who to ask (a random sample or a convenience sample) and how many (25 to 1,600). Every survey adds a dot to a chart, so students can see sampling error, why bigger samples help less and less, and why a large biased sample is still wrong. By Gwen Sharp.
 
 **Live site:** https://gsharpokie.github.io/samplingsim/
 
